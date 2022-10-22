@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.btn-login, .btn-register, .btn-electronic, .btn-home, .btn-jewel, .btn-men,.btn-women{
+   color: white;
+   /* margin: 2rem; */
+   padding: 1rem;
+   text-decoration: none;
+   font-weight: 900;
+}
+
+.btn-register:hover, .btn-login:hover,.btn-electronic:hover, .btn-home:hover, .btn-jewel:hover, .btn-men:hover,.btn-women:hover{
+      color: red;
+}
+
